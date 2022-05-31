@@ -1,1 +1,1 @@
-Medical Device :**Electromyogram**
+Medical Device :**Electromyogram (EMG)**
