@@ -1,5 +1,6 @@
-**Interactive Systems Design II
-Summer Term 2022**
+**Interactive Systems Design II**
+
+**Summer Term 2022**
 
 **Formalia:**
 Hand in a 7 DIN A4 pages documentation of an embedded / interactive system for a
