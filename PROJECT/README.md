@@ -1,7 +1,7 @@
 **Interactive Systems Design II
-Summer Term 2022
+Summer Term 2022**
 
-Formalia:**
+**Formalia:**
 Hand in a 7 DIN A4 pages documentation of an embedded / interactive system for a
 medical device. Present your models at the end of the semester in a 5 minutes.
 Your documentation should include:
