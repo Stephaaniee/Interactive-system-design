@@ -9,7 +9,6 @@ Your documentation should include:
 Models based on UML/SysML standards.
 
 **Task:**
-
 A concept for a medical device is required, which is able to detect and visualize
 changes in vital parameters. The behaviour of the system needs to be specified on a
 high level. The system architecture should be described in its behaviour with respect
