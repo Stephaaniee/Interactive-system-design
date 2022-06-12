@@ -1,11 +1,14 @@
 **Interactive Systems Design II
 Summer Term 2022
+
 Formalia:**
 Hand in a 7 DIN A4 pages documentation of an embedded / interactive system for a
 medical device. Present your models at the end of the semester in a 5 minutes.
 Your documentation should include:
 Models based on UML/SysML standards.
-Task:
+
+**Task:**
+
 A concept for a medical device is required, which is able to detect and visualize
 changes in vital parameters. The behaviour of the system needs to be specified on a
 high level. The system architecture should be described in its behaviour with respect
